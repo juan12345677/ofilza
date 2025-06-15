@@ -1,5 +1,5 @@
-Package: com.wh0ba.ofilza
-Name: ofilza
+Package: com.wh0ba.filza
+Name: filza
 Depends: 
 Version: 0.0.1
 Architecture: iphoneos-arm
